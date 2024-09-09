@@ -12,7 +12,6 @@ The goal of this project is to provide high-quality prompts for medical professi
 - [Physician Specialties](#physician-specialties)
 - [Non-Physician Specialties](#non-physician-specialties)
 - [Other Healthcare Professionals](#other-healthcare-professionals)
-- [Newly Added Specialties](#newly-added-specialties)
 
 ---
 
